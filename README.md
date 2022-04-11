@@ -1,4 +1,5 @@
 # Mad Lib
+Mad libs are funny stories created on the spot. Filling in a word for each prompt and a funny story will be made with the words provided! The results are usually hilarious.
 
 1. Create a functional component: `MadLib`
 
